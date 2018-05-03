@@ -2,7 +2,10 @@
 .idea
 node_modules
 package-lock.json
-build/images/**
-build/scripts/**
-build/styles/**
+build/**/*.css
+build/**/*.js
+build/**/*.png
+build/**/*.jpg
+build/**/*.svg
+build/**/*.gif
 style.css
